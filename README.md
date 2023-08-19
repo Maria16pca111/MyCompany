@@ -1,2 +1,4 @@
 # MyCompany
-Planning to create a Organization, Don't know when it will be accomplish.
+Planning to create an Organization, Don't know when it will be accomplished.
+Date: August 19, 2023
+
